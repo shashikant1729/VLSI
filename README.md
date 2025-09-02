@@ -62,5 +62,3 @@ This repository contains multiple digital design projects implemented in **Veril
 
 ---
 
-   ```bash
-   git clone <repo-link>
